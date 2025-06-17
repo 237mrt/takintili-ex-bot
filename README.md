@@ -1,2 +1,2 @@
 # takintili-ex-bot
-Sistem ex, next, warex, favex kimi eklersen onun whatsapp durumunu takip ediyor kuzen
+Kurulum basit terminali aç npm install yaz config dosyasısnı doldur ama lütfen düzgün doldur sana bana ağlama çalışmıyor diye sonra terminale node index.js yaz açılan whatsappa qr kodu okut bağlan ekran gelince bak ekran gelince dostum terminalde enter a bas zaten doğru girdiysen sistem çalışır birde bilgisayarın 7/24 açık değil ise git 100tlye bir vds kirala sonra kullan işte dostum girdikce mesaj gelecek çevrim içi süresini söyleyecek <3 
